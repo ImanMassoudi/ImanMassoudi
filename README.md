@@ -1,4 +1,4 @@
-<h1><span style="color: blue; font-size: 36px;"><a href='https://github.com/MadihaMassoudi'>Hey! Nice to see you</a></span></h1>
+<h1><span style="font-size: 36px;"><a href='https://github.com/MadihaMassoudi'>Hey! Nice to see you</a></span></h1>
 <div><img alt="Static Badge" src="https://img.shields.io/badge/🌐%20JavaScript-blue"> <img alt="Static Badge" src="https://img.shields.io/badge/💅%20CSS-pink"> <img alt="Static Badge" src="https://img.shields.io/badge/📄%20HTML-orange"> <img alt="Static Badge" src="https://img.shields.io/badge/🦕%20TypeJS-violet"> <img alt="Static Badge" src="https://img.shields.io/badge/🐍%20Python-purple"> <img alt="Static Badge" src="https://img.shields.io/badge/🧮%20Numpy-grey"> <img alt="Static Badge" src="https://img.shields.io/badge/📈%20Matplotlib-violet"> <img alt="Static Badge" src="https://img.shields.io/badge/🕹️%20PyGame-darkblue"> <img alt="Static Badge" src="https://img.shields.io/badge/💻%20VS%20Code-black"> <img alt="Static Badge" src="https://img.shields.io/badge/🧙%20PyCharm-darkpurple"> <img alt="Static Badge" src="https://img.shields.io/badge/💼%20Freelancer-lightblue"> <img alt="Static Badge" src="https://img.shields.io/badge/📚%20Scikit%20learn-red"> <img alt="Static Badge" src="https://img.shields.io/badge/➖%20Linear%20Regression-darkgreen"> <img alt="Static Badge" src="https://img.shields.io/badge/🔄%20Logistic%20Regression-lightgreen"> <img alt="Static Badge" src="https://img.shields.io/badge/🤖%20Machine%20Learning-darkred"></div>
 👋 Hello there! I'm Muqtadir Massoudi, and I'm passionate about coding 🖥️ and building digital wonders. As a Python developer 🐍, full stack enthusiast 🌐, and a wizard with HTML, CSS, and JavaScript, I'm constantly shaping ideas into functional, user-friendly websites and applications.
 
@@ -11,7 +11,7 @@
 🌐 You can connect with me on LinkedIn at My <a href='https://www.linkedin.com/in/muqtadir-massoudi-a29195226/'>LinkedIn Profile</a> to discover more about my projects and experiences.
 Python: 🐍 Python is a versatile and widely-used programming language known for its simplicity and readability. It's great for everything from web development to data analysis and automation.
 
-1) Full Stack Development: 👨‍💻 Full stack developers work on both the front-end (user interface) and back-end (server-side) of web applications, ensuring a seamless user experience.
+1) <span style="font-size: 25px;"><b>Full Stack Development</b></span>: 👨‍💻 Full stack developers work on both the front-end (user interface) and back-end (server-side) of web applications, ensuring a seamless user experience.
 
 2) HTML (Hypertext Markup Language): 🌐 HTML is the foundation of web development. It's used to structure and format content on web pages.
 
