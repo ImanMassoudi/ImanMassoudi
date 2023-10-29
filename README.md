@@ -11,32 +11,32 @@
 🌐 You can connect with me on LinkedIn at My <a href='https://www.linkedin.com/in/muqtadir-massoudi-a29195226/'>LinkedIn Profile</a> to discover more about my projects and experiences.
 Python: 🐍 Python is a versatile and widely-used programming language known for its simplicity and readability. It's great for everything from web development to data analysis and automation.
 
-1) <span style="font-size: 25px;"><b>Full Stack Development</b></span>: 👨‍💻 Full stack developers work on both the front-end (user interface) and back-end (server-side) of web applications, ensuring a seamless user experience.
+1) <span style="font-size: 33px;"><b>Full Stack Development</b></span>: 👨‍💻 Full stack developers work on both the front-end (user interface) and back-end (server-side) of web applications, ensuring a seamless user experience.
 
-2) HTML (Hypertext Markup Language): 🌐 HTML is the foundation of web development. It's used to structure and format content on web pages.
+2) <span style="font-size: 33px;"><b>HTML (Hypertext Markup Language)</b></span>: 🌐 HTML is the foundation of web development. It's used to structure and format content on web pages.
 
-3) CSS (Cascading Style Sheets): 🎨 CSS is used to style HTML elements, making web pages visually appealing.
+3) <span style="font-size: 33px;"><b>CSS (Cascading Style Sheets)</b></span>: 🎨 CSS is used to style HTML elements, making web pages visually appealing.
 
-4) JavaScript (JS): 🚀 JavaScript is a dynamic, client-side scripting language that adds interactivity to web pages.
+4) <span style="font-size: 33px;"><b>JavaScript (JS)</b></span>: 🚀 JavaScript is a dynamic, client-side scripting language that adds interactivity to web pages.
 
-5) VS Code (Visual Studio Code): 💻 VS Code is a popular code editor developed by Microsoft, known for its extensibility and a wide range of features.
+5) <span style="font-size: 33px;"><b>VS Code (Visual Studio Code)</b></span>: 💻 VS Code is a popular code editor developed by Microsoft, known for its extensibility and a wide range of features.
 
-6) PyCharm: 🐍 PyCharm is a powerful Python IDE that offers smart code assistance and debugging capabilities.
+6) <span style="font-size: 33px;"><b>PyCharm</b></span>: 🐍 PyCharm is a powerful Python IDE that offers smart code assistance and debugging capabilities.
 
-7) Pandas: 🐼 Pandas is a Python library for data manipulation and analysis, especially for working with structured data.
+7) <span style="font-size: 33px;"><b>Pandas</b></span>: 🐼 Pandas is a Python library for data manipulation and analysis, especially for working with structured data.
 
-8) NumPy: 🔢 NumPy is a fundamental library for numerical computing in Python, enabling efficient operations on arrays and matrices.
+8) <span style="font-size: 33px;"><b>NumPy</b></span>: 🔢 NumPy is a fundamental library for numerical computing in Python, enabling efficient operations on arrays and matrices.
 
-9) Matplotlib: 📊 Matplotlib is a data visualization library for creating static, animated, or interactive plots in Python.
+9) <span style="font-size: 33px;"><b>Matplotlib</b></span>: 📊 Matplotlib is a data visualization library for creating static, animated, or interactive plots in Python.
 
-10) Scikit-learn: 🤖 Scikit-learn is a machine learning library that provides simple and efficient tools for data analysis and modeling.
+10) <span style="font-size: 33px;"><b>Scikit-learn</b></span>: 🤖 Scikit-learn is a machine learning library that provides simple and efficient tools for data analysis and modeling.
 
-11) Web Development: 🌐 Web development involves building websites and web applications, encompassing front-end and back-end development.
+11) <span style="font-size: 33px;"><b>Web Development</b></span>: 🌐 Web development involves building websites and web applications, encompassing front-end and back-end development.
 
-12) TypeScript: 🧰 TypeScript is a statically-typed superset of JavaScript, making code more robust and maintainable.
+12) <span style="font-size: 33px;"><b>TypeScript</b></span>: 🧰 TypeScript is a statically-typed superset of JavaScript, making code more robust and maintainable.
 
-13) Pygame: 🕹️ Pygame is a library for creating 2D games in Python, making it a great choice for game development.
+13) <span style="font-size: 33px;"><b>Pygame</b></span>: 🕹️ Pygame is a library for creating 2D games in Python, making it a great choice for game development.
 
-14) Machine Learning: 🤖 Machine learning involves training algorithms to learn patterns from data, enabling predictions and decision-making.
+14) <span style="font-size: 33px;"><b>Machine Learning</b></span>: 🤖 Machine learning involves training algorithms to learn patterns from data, enabling predictions and decision-making.
 
 Let's turn ideas into reality, one line of code at a time! 💻🚀
