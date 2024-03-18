@@ -16,11 +16,12 @@ Social Media:
 
 <a href="https://www.facebook.com/profile.php?id=61555149057921" target="_blank" class="share-link btn btn-primary btn-md-square rounded-circle mb-2" style="background: #003366; margin-left: 0.5rem; color: black; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.596);"><i class="fab fa-facebook-f" style="color: white;"></i></a>
 
-<a href="https://www.linkedin.com/in/muqtadir-massoudi-a29195226/" target="_blank" class="share-link btn btn-primary btn-md-square rounded-circle mb-2" style="background: #003366; margin-left: 0.5rem; color: black; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.596);"><i class="fab fa-linkedin-in" style="color: white;"><i class="fab fa-linkedin-in" style="color: white;"></a>
+<a href="https://www.linkedin.com/in/muqtadir-massoudi-a29195226/" target="_blank" class="share-link btn btn-primary btn-md-square rounded-circle mb-2" style="background: #003366; margin-left: 0.5rem; color: black; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.596);"><i class="fab fa-linkedin-in" style="color: white;"></i></a>
 
-<a href="https://twitter.com/iman_massoudi" target="_blank" class="share-link btn btn-primary btn-md-square rounded-circle mb-2" style="background: #003366; margin-left: 0.5rem; color: black; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.596);"><i class="fa-brands fa-x-twitter" style="color: white;"></i></a>
+<a href="https://twitter.com/iman_massoudi" target="_blank" class="share-link btn btn-primary btn-md-square rounded-circle mb-2" style="background: #003366; margin-left: 0.5rem; color: black; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.596);"><i class="fab fa-twitter" style="color: white;"></i></a>
 
 <a href="https://www.instagram.com/m.muqtadirmassoudi/" target="_blank" class="share-link btn btn-primary btn-md-square rounded-circle mb-2" style="background: #003366; margin-left: 0.5rem; color: black; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.596);"><i class="fab fa-instagram" style="color: white;"></i></a>
+
 
 1) <span style="font-size: 60px;"><b>Python</b></span>: 🐍 Python is a versatile and widely-used programming language known for its simplicity and readability. It's great for everything from web development to data analysis and automation.
 
