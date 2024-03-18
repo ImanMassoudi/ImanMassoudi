@@ -28,6 +28,8 @@ Social Media:
 <a href="https://www.instagram.com/m.muqtadirmassoudi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m. muqtadir massoudi" height="30" width="40" /></a>
 </p>
 
+<br>
+
 1) <span style="font-size: 60px;"><b>Python</b></span>: 🐍 Python is a versatile and widely-used programming language known for its simplicity and readability. It's great for everything from web development to data analysis and automation.
 
 2) <span style="font-size: 60px;"><b>Full Stack Development</b></span>: 👨‍💻 Full stack developers work on both the front-end (user interface) and back-end (server-side) of web applications, ensuring a seamless user experience.
