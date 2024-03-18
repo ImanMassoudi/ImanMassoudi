@@ -1,4 +1,5 @@
-<h1><span style="font-size: 36px;"><a href='https://github.com/MadihaMassoudi'>Hey! Nice to see you</a></span></h1>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" />
+<h1><span style="font-size: 36px;"><a href='https://github.com/MMuqtadirMassoudi'>Hey! Nice to see you</a></span></h1>
 <div><img alt="Static Badge" src="https://img.shields.io/badge/🌐%20JavaScript-blue"> <img alt="Static Badge" src="https://img.shields.io/badge/💅%20CSS-pink"> <img alt="Static Badge" src="https://img.shields.io/badge/📄%20HTML-orange"> <img alt="Static Badge" src="https://img.shields.io/badge/🦕%20TypeJS-violet"> <img alt="Static Badge" src="https://img.shields.io/badge/🐍%20Python-purple"> <img alt="Static Badge" src="https://img.shields.io/badge/🧮%20Numpy-grey"> <img alt="Static Badge" src="https://img.shields.io/badge/📈%20Matplotlib-violet"> <img alt="Static Badge" src="https://img.shields.io/badge/🕹️%20PyGame-darkblue"> <img alt="Static Badge" src="https://img.shields.io/badge/💻%20VS%20Code-black"> <img alt="Static Badge" src="https://img.shields.io/badge/🧙%20PyCharm-darkpurple"> <img alt="Static Badge" src="https://img.shields.io/badge/💼%20Freelancer-lightblue"> <img alt="Static Badge" src="https://img.shields.io/badge/📚%20Scikit%20learn-red"> <img alt="Static Badge" src="https://img.shields.io/badge/➖%20Linear%20Regression-darkgreen"> <img alt="Static Badge" src="https://img.shields.io/badge/🔄%20Logistic%20Regression-lightgreen"> <img alt="Static Badge" src="https://img.shields.io/badge/🤖%20Machine%20Learning-darkred"> <img alt="Static Badge" src="https://img.shields.io/badge/🌐%20Flask-violet"> <img alt="Static Badge" src="https://img.shields.io/badge/📊%20Seaborn-brown"> <img alt="Static Badge" src="https://img.shields.io/badge/🌟%20Canva-purple"> <img alt="Static Badge" src="https://img.shields.io/badge/🤖%20SVM-lightblue"> <img alt="Static Badge" src="https://img.shields.io/badge/🌳%20Decision%20Tree-darkorange"> <img alt="Static Badge" src="https://img.shields.io/badge/🥒%20Pickle-black"> <img alt="Static Badge" src="https://img.shields.io/badge/📉%20Gradient%20Descent-red"></div>
 👋 Hello there! I'm <b>Muqtadir Massoudi</b>, and I'm passionate about coding 🖥️ and building digital wonders. As a Python developer 🐍, full stack enthusiast 🌐, and a wizard with HTML, CSS, and JavaScript, I'm constantly shaping ideas into functional, user-friendly websites and applications.
 
@@ -9,6 +10,16 @@
 🌟 But there's more to me than just code. I'm a lifelong learner 📚, a problem solver 🧩, and a team player 🤝. Collaboration is where the magic happens, and I thrive in diverse, dynamic environments.
 
 🌐 You can connect with me on LinkedIn at My <a href='https://www.linkedin.com/in/muqtadir-massoudi-a29195226/'>LinkedIn Profile</a> to discover more about my projects and experiences.
+
+Social Media:
+
+<a href="https://www.facebook.com/profile.php?id=61555149057921" target="_blank" class="share-link btn btn-primary btn-md-square rounded-circle mb-2" style="background: #003366; margin-left: 0.5rem; color: black; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.596);"><i class="fab fa-facebook-f" style="color: white;"></i></a>
+
+<a href="https://www.linkedin.com/in/muqtadir-massoudi-a29195226/" target="_blank" class="share-link btn btn-primary btn-md-square rounded-circle mb-2" style="background: #003366; margin-left: 0.5rem; color: black; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.596);"><i class="fa-brands fa-linkedin-in" style="color: white;"></i></a>
+
+<a href="https://twitter.com/iman_massoudi" target="_blank" class="share-link btn btn-primary btn-md-square rounded-circle mb-2" style="background: #003366; margin-left: 0.5rem; color: black; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.596);"><i class="fa-brands fa-x-twitter" style="color: white;"></i></a>
+
+<a href="https://www.instagram.com/m.muqtadirmassoudi/" target="_blank" class="share-link btn btn-primary btn-md-square rounded-circle mb-2" style="background: #003366; margin-left: 0.5rem; color: black; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.596);"><i class="fab fa-instagram" style="color: white;"></i></a>
 
 1) <span style="font-size: 60px;"><b>Python</b></span>: 🐍 Python is a versatile and widely-used programming language known for its simplicity and readability. It's great for everything from web development to data analysis and automation.
 
