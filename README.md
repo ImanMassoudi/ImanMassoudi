@@ -16,7 +16,7 @@ You can connect with me on LinkedIn at My <a href='https://www.linkedin.com/in/m
 
 <h3 align="left">Awards</h3>
 <p align="left">
-  1) State Level Primary Chess Champion in Delhi
+  1) State Level Primary Chess Champion in Delhi <br>
   2) Regional Level Primary Mental Math Champion in Delhi
 </p>
   
